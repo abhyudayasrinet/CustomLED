@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LEDLite</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="itemclickoptions">
+        <item >Color</item>
+        <item >Blink Rate</item>
+    </string-array>
+    <string-array name="blinkrateoptions">
+        <item >Solid</item>
+        <item >Slow</item>
+        <item >Normal</item>
+        <item >Fast</item>
+        <item >Very Fast</item>
+    </string-array>
+
+</resources>
